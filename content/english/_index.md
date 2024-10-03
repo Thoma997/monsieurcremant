@@ -6,7 +6,7 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Mehr Erfahren"
+    label: "Mehr erfahren"
     link: "/blog"
 
 # Features
