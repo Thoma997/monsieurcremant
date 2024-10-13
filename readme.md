@@ -237,3 +237,40 @@ List of some projects people are building with **Hugoplate**!
 ## 💻 Need Customization?
 
 If you need a custom theme, theme customization, or complete website development services from scratch you can [Hire Us](https://zeon.studio/estimate-project).
+
+
+## Customizations by Martin
+
+### Here we preserve the old social.json file's contents because currently we do not have any social profiles. 
+
+```json
+{
+  "main": [
+    {
+      "name": "facebook",
+      "icon": "fab fa-facebook",
+      "link": "/"
+    },
+    {
+      "name": "twitter",
+      "icon": "fab fa-twitter",
+      "link": "/"
+    },
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "/"
+    },
+    {
+      "name": "linkedin",
+      "icon": "fab fa-linkedin",
+      "link": "/"
+    }
+  ]
+}
+```
+
+
+---
+
+  
