@@ -1,4 +1,4 @@
-############# English navigation ##############
+############# German navigation ##############
 
 # main menu
 # [[main]]
@@ -48,7 +48,7 @@
 
 # footer menu
 [[footer]]
-name = "Authors"
+name = "Authoren"
 url = "/authors"
 weight = 1
 

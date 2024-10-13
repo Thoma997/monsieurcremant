@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Mehr erfahren"
-    link: "/blog"
+    link: "/de/blog"
 
 # Features
 # features:
