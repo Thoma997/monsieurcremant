@@ -47,6 +47,11 @@
 
 
 # footer menu
+[[footer]]
+name = "Authors"
+url = "/authors"
+weight = 1
+
 # [[footer]]
 # name = "About"
 # url = "/about"
