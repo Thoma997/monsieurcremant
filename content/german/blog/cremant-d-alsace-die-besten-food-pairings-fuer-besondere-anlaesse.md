@@ -96,17 +96,9 @@ Ein süßer Abschluss eines festlichen Menüs verdient besondere Aufmerksamkeit,
 
 Die frische Säurestruktur des Crémant d'Alsace harmoniert besonders gut mit fruchtigen Desserts. Poschierte Früchte und Obstsalate entfalten im Zusammenspiel mit den feinen Perlen des Schaumweins ihre volle Aromenpracht. Besonders harmonisch zeigen sich Kombinationen mit Konfitüren und kandierten Nüssen, wobei die Süße der Früchte durch die lebendige Säure des Crémants perfekt ausbalanciert wird.
 
-### Schokoladenkreationen
-
-Bei Schokoladendesserts kommt es besonders auf den Kakaogehalt an. Je höher der Kakaoanteil, desto kräftiger sollte der begleitende Wein sein. Für die verschiedenen Schokoladenvarianten empfehlen sich folgende Kombinationen:
-
-- Dunkle Schokolade: Pinot Gris oder Gewurztraminer Sélection Grains Nobles
-- Milchschokolade: Spätlese-Gewurztraminer für Balance zwischen Süße und Säure
-- Weiße Schokolade: Riesling Vendanges Tardives für harmonische Rundung
-
 ### Käsekuchen und Torten
 
-Die Zitrus-Meringue-Tarte präsentiert sich als klassische Dessertkreation, die besonders gut mit der Frische des Crémant d'Alsace harmoniert. Die cremige Textur von Käsekuchen findet in der feinen Perlage des Schaumweins einen eleganten Partner. Besonders beeindruckend ist die Kombination mit einem Crémant Rosé, dessen rote Fruchtaromen die Süße der Desserts perfekt ergänzen 15.
+Die Zitrus-Meringue-Tarte präsentiert sich als klassische Dessertkreation, die besonders gut mit der Frische des Crémant d'Alsace harmoniert. Die cremige Textur von Käsekuchen findet in der feinen Perlage des Schaumweins einen eleganten Partner. Besonders beeindruckend ist die Kombination mit einem Crémant Rosé, dessen rote Fruchtaromen die Süße der Desserts perfekt ergänzen.
 
 Die Temperatur spielt bei der Dessertbegleitung eine entscheidende Rolle - der Crémant sollte bei etwa 6-8°C serviert werden, um seine charakteristische Frische zu bewahren und die feinen Aromen optimal zur Geltung zu bringen. Bei cremigen Desserts wie Crème brûlée oder Kastanientörtchen empfiehlt sich ein Pinot Gris Vendanges Tardives, der mit seiner ausgewogenen Säurestruktur die Süße perfekt ausbalanciert.
 
