@@ -17,6 +17,14 @@ defaultContentLanguage = 'de'
 # defaultContentLanguageInSubdir need to be true if you want to use the language code as a subdirectory and language specific 404 page
 defaultContentLanguageInSubdir = false
 
+########################### Sitemap ##########################
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+
+########################### Robots.txt ##########################
+enableRobotsTXT = true
+
 ########################### Services #############################
 [services]
 [services.googleAnalytics]
@@ -175,6 +183,3 @@ lazy = true
 [[params.plugins.js]]
 link = "plugins/youtube-lite.js"
 lazy = true
-
-############################# SEO ##############################
-enableRobotsTXT = true
