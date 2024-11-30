@@ -17,13 +17,13 @@ defaultContentLanguage = 'de'
 # defaultContentLanguageInSubdir need to be true if you want to use the language code as a subdirectory and language specific 404 page
 defaultContentLanguageInSubdir = false
 
+########################### Robots.txt ##########################
+enableRobotsTXT = true
+
 ########################### Sitemap ##########################
 [sitemap]
   changefreq = "weekly"
   filename = "sitemap.xml"
-
-########################### Robots.txt ##########################
-enableRobotsTXT = true
 
 ########################### Services #############################
 [services]
