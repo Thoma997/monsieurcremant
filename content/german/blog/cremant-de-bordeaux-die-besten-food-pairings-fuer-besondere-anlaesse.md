@@ -3,7 +3,7 @@ title: "Crémant de Bordeaux: Die besten Food-Pairings für besondere Anlässe"
 meta_title: "Crémant de Bordeaux: Die besten Food-Pairings für besondere Anlässe"
 description: "Entdecken Sie, wie der Crémant de Bordeaux mit seinen einzigartigen Aromen Ihre festlichen Momente bereichert. Perfekte Food-Pairings für jeden Gang!"
 date: 2024-12-07T11:00:00Z
-image: "/images/cremant-de-bordeaux-food-pairings.webp"
+image: "/images/cremant-de-bordeaux-die-besten-food-pairings-fuer-besondere-anlaesse.webp"
 author: "Louise"
 draft: false
 ---
